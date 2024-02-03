@@ -1,4 +1,5 @@
-> Vayzio | Dc Bot
+> Vayzio 
+> Dc: Noozq
 
 
 <!---
