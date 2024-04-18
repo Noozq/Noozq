@@ -1,5 +1,3 @@
-> Vayzio 
-> Dc: Noozq
 
 
 <!---
